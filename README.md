@@ -7,4 +7,4 @@ A modification of the VQ-VAE (Vector-Quantised Variational Auto-Encoder) paper d
 
 ### Reconstructed Images from ImageNet
 
-![Example Image](images/reconstructed.png)
+![Example Image](images/Reconstructions.png)
